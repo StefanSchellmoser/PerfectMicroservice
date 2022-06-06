@@ -2,3 +2,13 @@
 Part1_Introduction/PerfectMicroservice/.idea/
 
 Part1_Introduction/PerfectMicroservice/PerfectMicroservice/obj/
+
+Part1_Introduction/PerfectMicroservice/PerfectMicroservice.Infrastructure/obj/
+
+Part1_Introduction/PerfectMicroservice/PerfectMicroservice.Domain/obj/
+
+Part1_Introduction/PerfectMicroservice/PerfectMicroservice.Application/obj/
+
+Part1_Introduction/PerfectMicroservice/PerfectMicroservice.Api/bin/
+
+Part1_Introduction/PerfectMicroservice/PerfectMicroservice.Api/obj/
